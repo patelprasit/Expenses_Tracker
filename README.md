@@ -1,4 +1,3 @@
-Expense Tracker 💰
 About the Project
 
 Expense Tracker is a simple C++ program that helps you manage your daily expenses. You can record your spending, view all your expenses, search for specific transactions, and generate reports to understand where your money goes.
